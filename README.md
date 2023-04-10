@@ -7,6 +7,8 @@ Para iniciar o projeto é necessário criar um banco de dados chamado servidor c
 
 Crud de desenvolvedores e níveis feito em PHP, JAVASCRIPT, HTML e CSS.
 
+Feito como treino e está sujeito a erros ou possíveis bugs. Experiência de apenas 2 semanas com php.
+
 # Funções:
   -  Listar Níveis e Desenvolvedores existentes.
   -  Editar um Nível ou Desenvolvedor.
