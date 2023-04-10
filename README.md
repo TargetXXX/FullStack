@@ -1,13 +1,13 @@
 # FullStack
 # Para acessar o sistema
-Para iniciar o projeto é necessário criar um banco de dados chamado servidor com as tabelas 'niveis' e 'desenvolvedores' e colunas (Id INT PK, Nivel Varchar(100)) e (Id INT PK, Nivel_ID FK, Nome Varchar(100), DataNascimento Date, Sexo Char(2), Hobby Varchar(100)), respectivamente.
+Para iniciar o projeto é necessário criar um banco de dados chamado servidor.
 
 
 # Projeto treino GazinTech: 
 
 Crud de desenvolvedores e níveis feito em PHP, JAVASCRIPT, HTML e CSS.
 
-Feito como treino e está sujeito a erros ou possíveis bugs. Experiência de apenas 2 semanas com php.
+Feito como treino e está sujeito a erros ou possíveis bugs. Experiência de apenas 2 semanas com PHP.
 
 # Funções:
   -  Listar Níveis e Desenvolvedores existentes.
