@@ -3,11 +3,11 @@
 Para iniciar o projeto é necessário criar um banco de dados chamado servidor com as tabelas 'niveis' e 'desenvolvedores' e colunas (Id INT PK, Nivel Varchar(100)) e (Id INT PK, Nivel_ID FK, Nome Varchar(100), DataNascimento Date, Sexo Char(2), Hobby Varchar(100)), respectivamente.
 
 
-#Projeto treino GazinTech: 
+# Projeto treino GazinTech: 
 
 Crud de desenvolvedores e níveis feito em PHP, JAVASCRIPT, HTML e CSS.
 
-#Funções:
+# Funções:
   -  Listar Níveis e Desenvolvedores existentes.
   -  Editar um Nível ou Desenvolvedor.
   -  Excluir um Nível ou Desenvolvedor.
